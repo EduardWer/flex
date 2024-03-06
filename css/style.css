@@ -1,0 +1,119 @@
+.main{
+  margin-left: 400px;
+}
+
+.head{
+  display: flex;
+  justify-content: space-between;
+  background: rgb(34, 37, 45);
+
+  image{
+    margin-top: 40px;
+  }
+
+  a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 20px;
+
+  }
+  button{
+    background:rgb(236, 127, 0) ;
+    width: 172px;
+    height: 36px;
+    border-radius: 20px;
+    margin-left: 20px;
+  }
+}
+
+.otstyp{
+  background: rgb(32, 41, 67);
+
+}
+
+
+.info{
+  display: flex;
+  justify-content: space-between;
+  .position{
+    margin-left: 400px;
+    width: 1980px;
+    height: 600px;
+    margin-top: 10px;
+
+  }
+  background:rgb(44, 49, 56) ;
+  pre{
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+
+  }
+  .title{
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+  }
+  button{
+
+    background: rgb(136, 31, 117);
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+  }
+  .uli{
+
+  li{
+    color: yellow;
+    font-size: 20px;
+  }
+    li span{
+      color: white;
+    }
+    margin-right: 40px;
+    margin-top: 10px;
+    b{
+      margin-top: 20px;
+      color: yellow;
+    }
+  }
+}
+
+.boudi{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 400px;
+  margin-right: 400px;
+  align-items: center;
+  .title2{
+    font-size: 35px;
+
+  }
+}
+
+.ander{
+  display: flex;
+  justify-content: space-between;
+  background: rgb(44, 49, 56);
+  table{
+    margin-left: 400px;
+  }
+}
+.tde{
+  color: white;
+  margin-left: 70px;
+}
+
+.td{
+  padding: 10px;
+  margin-left: 50px;
+  color: grey;
+  font-size: medium;
+}
+
+.imge{
+  margin-left: 225px;
+}
